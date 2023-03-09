@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a447445e.css",
+    "main.js": "/static/js/main.64a90290.js",
+    "static/media/certificate6.png": "/static/media/certificate6.263013364737d9c81368.png",
+    "static/media/certificate5.png": "/static/media/certificate5.d19603e3f2f51f70c8bf.png",
+    "static/media/certificate1.png": "/static/media/certificate1.d51dd020740a94d04721.png",
+    "static/media/project5.png": "/static/media/project5.f8c5fe49a8c0452bb7a7.png",
+    "static/media/certificate4.jpg": "/static/media/certificate4.2d86aedb6532086db5db.jpg",
+    "static/media/certificate7.jpg": "/static/media/certificate7.5a8aed447b63718c9fec.jpg",
+    "static/media/certificate2.png": "/static/media/certificate2.6bc1efb94ed246c5ddc5.png",
+    "static/media/boy1.png": "/static/media/boy1.123cff3d3cc4d0ef48ef.png",
+    "static/media/certificate3.png": "/static/media/certificate3.e28a108e9dabc1fe2c08.png",
+    "static/media/project4.png": "/static/media/project4.ccbe06269242c286963f.png",
+    "static/media/Resume.pdf": "/static/media/Resume.034347bb0275a169855e.pdf",
+    "static/media/glassesemoji.png": "/static/media/glassesemoji.a08bdab12e8eb56a6874.png",
+    "static/media/project1.png": "/static/media/project1.12360551f97f30b9a160.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/project2.png": "/static/media/project2.3890080f6abf312f9693.png",
+    "index.html": "/index.html",
+    "main.a447445e.css.map": "/static/css/main.a447445e.css.map",
+    "main.64a90290.js.map": "/static/js/main.64a90290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a447445e.css",
+    "static/js/main.64a90290.js"
+  ]
+}
